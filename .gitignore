@@ -1,0 +1,28 @@
+# secrets — never commit these
+.env
+.env.*
+*.key
+secrets.json
+**/credentials*.json
+
+# chroma / local vector stores
+chroma/
+chroma_db/
+.chroma/
+*.sqlite3
+
+# embedding + huggingface caches
+.cache/
+hf_cache/
+sentence_transformers/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# os noise
+.DS_Store
+Thumbs.db
