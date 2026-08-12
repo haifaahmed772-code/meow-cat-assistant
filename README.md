@@ -16,9 +16,9 @@ conversations, and nothing gets booked without a staff member approving it.
 | Trainees | Haifa Ahmed Alsulami · Wed Ayad Alshalawi |
 | Programme | **Building Agentic AI Systems** |
 | Cohort | 9 – 13 August 2026 |
-| Institution | SDAIA Academy — <https://sdaia.gov.sa/en/Sectors/academy/Pages/default.aspx> |
-| Declared track | **Track C — router across multiple knowledge sources** |
 | Institution | SDAIA Academy — [website](https://sdaia.gov.sa/en/Sectors/academy/Pages/default.aspx) · [GitHub](https://github.com/SDAIAAcademy) |
+| Declared track | **Track C — router across multiple knowledge sources** |
+
 
 ---
 
