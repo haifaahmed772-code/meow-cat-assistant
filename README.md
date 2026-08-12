@@ -18,6 +18,7 @@ conversations, and nothing gets booked without a staff member approving it.
 | Cohort | 9 – 13 August 2026 |
 | Institution | SDAIA Academy — <https://sdaia.gov.sa/en/Sectors/academy/Pages/default.aspx> |
 | Declared track | **Track C — router across multiple knowledge sources** |
+| Institution | SDAIA Academy — [website](https://sdaia.gov.sa/en/Sectors/academy/Pages/default.aspx) · [GitHub](https://github.com/SDAIAAcademy) |
 
 ---
 
@@ -135,3 +136,5 @@ documents; fixing it means rewriting the documents.
 
 A training project. It does not diagnose illness and is not a substitute for a
 licensed veterinarian. Prices and policies are invented.
+
+
